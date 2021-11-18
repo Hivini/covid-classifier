@@ -2,3 +2,4 @@ COVID-19_Radiography_Dataset/*
 *.npy
 *.h5
 small_dataset
+saved_images/*
